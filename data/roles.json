@@ -1,0 +1,11 @@
+{
+  "sujay": {
+    "user_id": 7742005583,
+    "email": "unknown@example.com"
+  },
+  "vikas": {
+    "role": "friend",
+    "email": "vikasjrai@gmail.com",
+    "user_id": 1551878595
+  }
+}
